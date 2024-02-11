@@ -1,4 +1,8 @@
 void main() {
+  userEmailPassword();
+}
+
+void userEmailPassword() {
   String email = "abc@gmail.com";
   String password = "123456";
 
